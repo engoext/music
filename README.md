@@ -1,2 +1,3 @@
-# music
-Repository for the Ultrasonic Music outreach activity designed by the External Engagement Team of the Faculty of Engineering, University of Sydney
+# Ultrasonic Music
+
+Open this website in a new tab & we will come back to this later: https://mitchbryson.github.io/arduino_musical_instrument/music.html
